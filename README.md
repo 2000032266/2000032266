@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik China Moulali</h1>
-<h3 align="center">AI & IPA Graduate | Full Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">Computer Science Graduate | Full Stack Developer | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2000032266&label=Profile%20views&color=0e75b6&style=flat" alt="2000032266" />
