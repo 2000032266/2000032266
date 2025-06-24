@@ -11,8 +11,7 @@
 🌱 I’m learning **DevOps, CI/CD, and System Design**  
 💬 Ask me about **Java, React, Node, MySQL, Django**  
 📫 Reach me at **2000032266@gmail.com**  
-🌐 Visit my portfolio: [Click Here](https://2000032266.github.io/myportifolio/)
-
+🌐 Visit my portfolio: [Click Here](https://2000032266.github.io/myportfolio/)
 ---
 
 ### 🚀 Languages & Tools:
